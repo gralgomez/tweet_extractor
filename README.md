@@ -21,5 +21,5 @@ You can also lookup [this tutorial](http://www.r-bloggers.com/r-text-mining-on-t
   * This is still work in progress, I will keep you posted ....
   
 ## Packages
-https://cran.r-project.org/web/packages/twitteR/index.html
-https://cran.r-project.org/web/packages/ROAuth/index.html
+* https://cran.r-project.org/web/packages/twitteR/index.html
+* https://cran.r-project.org/web/packages/ROAuth/index.html
